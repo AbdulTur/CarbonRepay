@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CarbonRepay/static/css/main.a376417f.css",
+    "main.js": "/CarbonRepay/static/js/main.671567cf.js",
+    "static/js/787.22bd6c3f.chunk.js": "/CarbonRepay/static/js/787.22bd6c3f.chunk.js",
+    "static/media/Logo.png": "/CarbonRepay/static/media/Logo.6ab84b3a544f31adb57d.png",
+    "index.html": "/CarbonRepay/index.html",
+    "main.a376417f.css.map": "/CarbonRepay/static/css/main.a376417f.css.map",
+    "main.671567cf.js.map": "/CarbonRepay/static/js/main.671567cf.js.map",
+    "787.22bd6c3f.chunk.js.map": "/CarbonRepay/static/js/787.22bd6c3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a376417f.css",
+    "static/js/main.671567cf.js"
+  ]
+}
