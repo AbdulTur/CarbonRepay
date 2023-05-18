@@ -1,0 +1,44 @@
+/* styles/DataContainer.css */
+.container.data-container {
+  background-color: #f0f0f0; /* Pastel grey */
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 100%; /* Set fixed width */
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #6f6b6b;
+  max-height: 250px;
+  overflow: auto;
+  border-radius: 10px;
+}
+
+h2 {
+  color: black;
+}
+
+.data-row {
+  display: flex;
+  gap: 10px;
+  color: black;
+}
+
+.reset-btn {
+  margin-top: 10px;
+  background-color: #007BFF; /* Change the background color */
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  transition-duration: 0.4s;
+}
+
+.reset-btn:hover {
+  background-color: #0056B3; /* Change the hover background color */
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+              0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
